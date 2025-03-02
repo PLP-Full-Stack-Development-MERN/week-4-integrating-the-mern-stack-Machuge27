@@ -40,7 +40,7 @@ A full-stack task management application built with the MERN stack (MongoDB, Exp
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/mern-task-manager.git
+git clone https://github.com/PLP-Full-Stack-Development-MERN/week-4-integrating-the-mern-stack-Machuge27.git
 cd mern-task-manager
 ```
 
