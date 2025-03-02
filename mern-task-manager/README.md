@@ -2,7 +2,9 @@
 
 A full-stack task management application built with the MERN stack (MongoDB, Express, React, Node.js).
 
-![Task Manager Screenshot](https://picsum.photos/800/400)
+<!-- ![Task Manager Screenshot](https://picsum.photos/800/400) -->
+
+![alt text](frontend/public/image-2.png)
 
 ## Features
 
@@ -154,7 +156,7 @@ Response:
   "updatedAt": "2023-04-03T10:15:00.000Z"
 }
 ```
-![alt text](public/image.png)
+![alt text](frontend/public/image.png)
 
-![alt text](public/image-1.png)
+![alt text](frontend/public/image-1.png)
 
